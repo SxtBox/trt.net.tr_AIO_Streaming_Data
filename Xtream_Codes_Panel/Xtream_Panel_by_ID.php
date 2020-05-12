@@ -125,7 +125,6 @@ if(!$id) die("
 <font color=lime>API: https://kodi.al/</b></center></font>
 <br/>
 <b><center><font color=lime>FB: /albdroid.official/</b></center></font><br/>
-
 "
 );
 header("Content-Type: application/rss+xml; charset=utf-8");
